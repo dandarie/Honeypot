@@ -1,6 +1,5 @@
 <?php namespace Msurguy\Honeypot;
 
-use Illuminate\Html\FormBuilder;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Str;
